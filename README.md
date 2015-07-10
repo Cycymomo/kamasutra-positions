@@ -1,8 +1,6 @@
 # kamasutra-positions
 Get a random Kamasutra position
 
-An idea from [SuperGallus](https://github.com/supergallus)
-
 ## install
 ```
 $ npm install --save kamasutra-positions
@@ -51,5 +49,6 @@ $ kamasutra-positions --help
 ```
 
 ## License
+Brought to you by [SuperGallus](https://github.com/supergallus) and [Nickdouille](https://github.com/nickdouille)
 
 MIT © [Cyril Moreau](http://sojavascript.com)
