@@ -1,0 +1,45 @@
+{
+  "name": "kamasutra-positions",
+  "version": "1.0.0",
+  "description": "Get a random Kamasutra position",
+  "license": "MIT",
+  "repository": "Nickdouille/kamasutra-positions",
+  "author": {
+    "name": "Cyril Moreau",
+    "email": "cyril.moreau0804@gmail.com",
+    "url": "sojavascript.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "kamasutra-positions.json"
+  ],
+  "keywords": [
+    "list",
+    "array",
+    "random",
+    "rand",
+    "kamasutra",
+    "position",
+    "positions"
+  ],
+  "dependencies": {
+    "meow": "^3.3.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Nickdouille/kamasutra-positions/issues"
+  },
+  "homepage": "https://github.com/Nickdouille/kamasutra-positions",
+  "main": "index.js"
+}
